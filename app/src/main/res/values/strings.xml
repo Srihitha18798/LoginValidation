@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginValidation</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+</resources>
